@@ -1,37 +1,39 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        vector<int> arr;
-        if(nums.empty()) return arr;
-        int i = 0;
-        while(i < nums.size() && nums[i] < 0){
-            i++;
+        
+        int j = 0;
+        while(j < nums.size() && nums[j] < 0){
+            j++;
         }
-        i--;
-        int j = i+1;
+        int i = j-1;
+        int k = 0;
+        while(k < nums.size()){
+            nums[k] = nums[k]*nums[k];
+            k++;
+        }
+        vector<int> arr;
         while(i >= 0 && j < nums.size()){
-            int  a = nums[i]*nums[i];
-            int  b = nums[j]*nums[j];
-            if( a < b){
-                arr.push_back(nums[i]*nums[i]);
+              if(nums[i] < nums[j]){
+                arr.push_back(nums[i]);
                 i--;
-            }
-            else{
-                arr.push_back(nums[j]*nums[j]);
+              }
+              else{
+                arr.push_back(nums[j]);
+                j++;
+              }
+        }
+        if(j < nums.size()){
+            while(j < nums.size()){
+                arr.push_back(nums[j]);
                 j++;
             }
         }
         if(i >= 0){
-        while(i >= 0){
-            arr.push_back(nums[i]*nums[i]);
-            i--;
-        }
-        }
-         if(j < nums.size()){
-        while(j < nums.size()){
-            arr.push_back(nums[j]*nums[j]);
-            j++;
-        }
+            while(i >= 0){
+                arr.push_back(nums[i]);
+                i--;
+            }
         }
         return arr;
     }

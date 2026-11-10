@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |

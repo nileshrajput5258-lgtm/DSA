@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/nileshrajput5258-lgtm/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
